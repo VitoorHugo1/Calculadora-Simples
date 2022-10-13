@@ -35,7 +35,7 @@
             Console.Clear();
             Console.WriteLine("SOMA");
             Console.WriteLine();
-            Console.Write("PRIMEIRO NUMERO: ");
+            Console.Write("PRIMEIRO NUMERO:");
             double PrimeiroNumero = double.Parse(Console.ReadLine());
             Console.Write("SEGUNDO NUMERO: ");
             double SegundoNumero = double.Parse(Console.ReadLine());
